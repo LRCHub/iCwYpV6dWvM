@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Sensation",
+  "base_artist": "capo2",
+  "createdAt": "2026-01-03T05:12:59.446893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Internet Sensation",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/01_Internet_Sensation_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Sensation (2017 Remaster)",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/02_New_Sensation_(2017_Remaster)_INXS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Sensation",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/03_New_Sensation_INXS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Sensation",
+      "artist": "INXS feat. Deborah de Corral",
+      "has_synced": false,
+      "path": "select/04_New_Sensation_INXS_feat._Deborah_de_Corral.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Sensation (feat. Deborah de Corral)",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/05_New_Sensation_(feat._Deborah_de_Corral)_INXS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Sensation - Nick 7\"",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/06_New_Sensation_-_Nick_7_INXS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Sensation - Nick 7'",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/07_New_Sensation_-_Nick_7'_INXS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That Sensation",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/08_That_Sensation_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tactile Sensation",
+      "artist": "TWRP feat. Planet Booty",
+      "has_synced": true,
+      "path": "select/09_Tactile_Sensation_TWRP_feat._Planet_Booty.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tactile Sensation",
+      "artist": "TWRP",
+      "has_synced": true,
+      "path": "select/10_Tactile_Sensation_TWRP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sensation",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/11_Sensation_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overnight Sensation",
+      "artist": "Accept",
+      "has_synced": true,
+      "path": "select/12_Overnight_Sensation_Accept.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Overnight Sensation",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/13_Overnight_Sensation_Motörhead.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sensation",
+      "artist": "capo2",
+      "has_synced": false,
+      "path": "select/pl_01_Sensation_capo2.txt"
+    }
+  ]
+}
