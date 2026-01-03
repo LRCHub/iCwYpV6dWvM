@@ -1,0 +1,60 @@
+# capo2 – Sensation
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+How are u now?
+Call my...?
+How are u now?
+Oh baby
+夢中になる前に
+君が浮かぶから
+うんざりだよ
+Oh baby
+夢中になる前に
+止まれないから
+Frustration
+偶然同じ映画観ていただけ
+それを運命みたいって思いたいだけ
+もう一度出会い直せたなら
+Take one,take two
+Bring me,senses back
+約束のkissしたり
+「友達」と呼ばれたり
+キリがないこの感じ
+助けて隣のdarling
+約束のkissしたり
+「友達」と呼ばれたり
+キリがないこの感じ
+助けて隣のdarling
+Oh baby
+嘘も本当も
+混ざってばかり
+もううんざりだよ
+Oh baby
+嘘も本当も
+バレてばかり
+Frustration
+It's funny how it, goes out tempo
+In the speed of light
+それを運命みたいって思いたいだけ
+もう一度出会い直せたなら
+Take one,take two
+Bring me,senses back
+約束のkissしたり
+「友達」と呼ばれたり
+キリがないこの感じ
+助けて隣のdarling
+約束のkissしたり
+「友達」と呼ばれたり
+キリがないこの感じ
+助けて隣のdarling
+触れた君の声
+分かるはずもなく
+愛を語るには
+夜は長すぎる
+触れる君の指
+気づくはずもなく
+愛を語るには
+夜は長すぎる
+```
